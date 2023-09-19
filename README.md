@@ -21,7 +21,7 @@ This Streamlit application aims to analyze sentiments in sentences related to Mo
 
 | Code | Project Name | PowerPoint Presentation | Deployed App |
 |------------------|------------------|------------------|------------------|
-| Capstone     |Movie Sentiments Analysis     | https://docs.google.com/presentation/d/1-yCcrxyVLI-jZROAXtiSz_PTBknqs0Zn/edit#slide=id.p50   | https://huggingface.co/spaces/UholoDala/Movie_Sentiment_Pred     |
+| Capstone     |Movie Sentiments Analysis     | https://docs.google.com/presentation/d/1-yCcrxyVLI-jZROAXtiSz_PTBknqs0Zn/edit#slide=id.p50   | https://huggingface.co/spaces/penscola/Movie_Sentimental_Prediction     |
 
 
 
